@@ -1,2 +1,2 @@
 # Chart-App
-Practical
+This is just a Practical exercise
